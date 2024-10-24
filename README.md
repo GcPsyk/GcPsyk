@@ -1,7 +1,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm%2C+Maria+Suzane...;and+I'm+a+web+developer!">
+  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm%2C+Gabriel+Couto...;and+I'm+a+data+analytics!">
 </p>
 
 <br>
@@ -12,8 +12,8 @@
 
 <h3>🌐 Connect with me:</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzaane97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasuzane/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcouto.br@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcouto06/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sdesuzane)
 
 
