@@ -14,7 +14,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcouto.br@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcouto06/)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sdesuzane)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/GcPsyk)
 
 
 <br>
@@ -49,17 +49,17 @@
 
 ## 🔗 Portfolio and Website:
 
-[![Portfolio](https://img.shields.io/badge/My&nbsp;Portfolio-790975?style=for-the-badge&logo=todoist&logoColor=white)](https://sdesuzane.github.io/)
+[![Portfolio](https://img.shields.io/badge/My&nbsp;Portfolio-790975?style=for-the-badge&logo=todoist&logoColor=white)](https://GcPsyk.github.io/)
 [![Blog](https://img.shields.io/badge/Latte&nbsp;Digital-3c5bca?style=for-the-badge&logo=blogger&logoColor=white)](https://lattedigital.com.br/)
 
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0498.gif" width="1920"></br></br>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdesuzane&hide_progress=true&theme=radical&showicons=true&hideborder=false&layout=compact)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GcPsyk&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GcPsyk&hide_progress=true&theme=radical&showicons=true&hideborder=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GcPsyk/GcPsyk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GcPsyk/GcPsyk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </br>
